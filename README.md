@@ -2,8 +2,8 @@
 AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
 Team Members:
-1.Akshay - Team Lead
 
+1.Akshay - Team Lead
 
 2.Abdul Ashiq A R
 
